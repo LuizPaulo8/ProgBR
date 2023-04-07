@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#azul{
+    background-color: blue;
+    width: 50vw;
+    height: 300px;
+}
+
+#vermelha{
+    background-color: red;
+    width: 500px;
+    height: 300px;
+}
+
+.foto{
+    width: 50%;
+
+}
