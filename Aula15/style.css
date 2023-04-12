@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#primeira{
+height: 100px;
+width: 100px;
+background-color: blue;
+color: white;
+border: 10px solid black;
+padding: 10px;
+box-sizing: border-box;
+}
+
+#segunda{
+height: 100px;
+width: 100px;
+background-color: red;
+color: whitesmoke;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
