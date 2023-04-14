@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+a{
+    background-color: cadetblue;
+    color: black;
+    padding: 30px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+a:visited{
+    background-color: brown;
+}
+
+a:hover{
+    padding: 60px;
+}
+
+a:active{
+    background-color: #444;
+}
